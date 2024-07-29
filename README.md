@@ -14,7 +14,6 @@
    - [As a Command-Line Script](#as-a-command-line-script)
    - [As a Library](#as-a-library)
    - [Saving the Diff to a File](#saving-the-diff-to-a-file)
-- [Screencasts](#screencasts)
 
 ## Features
 Gendiff is a command-line script and library for comparing two files and displaying the differences between them.
