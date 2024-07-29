@@ -7,6 +7,7 @@
 
 ## Table of contests
 - [Features](#features)
+- [Technology Stack](#technology-stack)
 - [Minimal Requirements](#minimal-requirements)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
@@ -24,6 +25,16 @@ Gendiff is a command-line script and library for comparing two files and display
   - **JSON**: Standard JSON format representation.
 - **Nested Structure Support**: Gendiff handles nested structures, allowing deep comparisons of complex data.
 
+### Technology Stack
+- **Programming Language**: Python, Bash
+- **Dependency Management**: Poetry
+- **Testing**: Pytest
+- **Data formats**: JSON, YAML
+- **Command-line Parsing**: Argparse
+- **Linting**: Flake8
+- **CI/CD**: GitHub Actions
+- **Code Quality**: Code Climate
+
 ## Minimal Requirements
 - Python 3.6 or higher
 - Poetry 1.7.1 or higher
@@ -31,7 +42,7 @@ Gendiff is a command-line script and library for comparing two files and display
 ## Installation
 To install Gendiff, run the following command:
 ```shell
-git clone https://github.com/snegirevdv/python-project-50.git
+git clone git@github.com:snegirevdv/diff-generator.git
 ```
 ```shell
 cd python-project-50
